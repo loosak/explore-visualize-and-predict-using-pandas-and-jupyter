@@ -227,7 +227,7 @@ nyc.head()
 #  * s.s.temp.
 #
 # * Replace empty values (``.``) with ``NaN``. 
-# * Pull the year, month, and date columns into a single variable using the ``parse_dates`` parameter (see the ``pd.read_csv`` docs for info on this).
+# * Pull the year, month, and day columns into a single variable using the ``parse_dates`` parameter (see the ``pd.read_csv`` docs for info on this).
 #
 # FYI, zonal winds are along east/west axis. Meridonal winds are north/south.
 
