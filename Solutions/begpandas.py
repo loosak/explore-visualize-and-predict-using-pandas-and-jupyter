@@ -391,9 +391,6 @@ nyc2.PrecipitationIn.transform(to_cm)
 # -
 
 # %%timeit
-nyc2.map(to_cm)
-
-# %%timeit
 nyc2.PrecipitationIn.transform(to_cm)
 
 # %%timeit
